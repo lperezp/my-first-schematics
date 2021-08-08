@@ -3,6 +3,10 @@
   "schematics": {  "first-schematic": {
       "description": "A blank schematic.",
       "factory": "./first-schematic/index#firstSchematic"
+    },
+    "create-structure": {
+      "description": "A blank schematic.",
+      "factory": "./create-structure/index#createStructure"
     }
   }
 }
